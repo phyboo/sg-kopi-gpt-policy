@@ -1,6 +1,6 @@
 # Privacy Policy for SG Kopi GPT
 
-Effective Date: [Insert Date]
+Effective Date: 18-Aug-2025
 
 SG Kopi GPT (“the CustomGPT”) respects your privacy. This Privacy Policy explains how information is handled when you use this CustomGPT.
 
@@ -24,7 +24,7 @@ SG Kopi GPT (“the CustomGPT”) respects your privacy. This Privacy Policy exp
 - For data handled by OpenAI, please see the [OpenAI Privacy Policy](https://openai.com/policies/privacy-policy).
 
 ## 6. Contact
-If you have concerns about privacy regarding SG Kopi GPT, you can reach the creator at: [Insert your contact email or GitHub profile link].
+If you have concerns about privacy regarding SG Kopi GPT, you can reach the creator at: https://github.com/phyboo
 
 ---
 
