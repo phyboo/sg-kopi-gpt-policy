@@ -24,7 +24,7 @@ SG Kopi GPT (“the CustomGPT”) respects your privacy. This Privacy Policy exp
 - For data handled by OpenAI, please see the [OpenAI Privacy Policy](https://openai.com/policies/privacy-policy).
 
 ## 6. Contact
-If you have concerns about privacy regarding SG Kopi GPT, you can reach the creator at: **jo_mailbox@yahoo.com**
+If you have concerns about privacy regarding SG Kopi GPT, you can reach the creator at: **sgtools.ai@gmail.com**
 
 ---
 
